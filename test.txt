@@ -1,0 +1,3 @@
+I used the getopt function, which is defined in UNIX/Linux systems (not part of the standard C library), 
+to print the given text to the standard output in the chosen format, such as hexadecimal or octal. 
+Practice with low-level projects makes me understand the details and back logic of C language.
